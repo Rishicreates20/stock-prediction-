@@ -1,4 +1,4 @@
-# stock-prediction-
+# NVIDIA-Stock-Prediction
 Fetches NVIDIA stock data, uses LSTM, provides metrics, visualizations. Enhancements: add indicators, sentiment analysis, more models.
 # NVIDIA Stock Price Prediction
 
