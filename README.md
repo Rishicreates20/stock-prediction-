@@ -1,5 +1,4 @@
-# NVIDIA-Stock-Prediction
-Fetches NVIDIA stock data, uses LSTM, provides metrics, visualizations. Enhancements: add indicators, sentiment analysis, more models.
+
 # NVIDIA Stock Price Prediction
 
 This project predicts NVIDIA stock prices using LSTM neural networks. It fetches historical data from Yahoo Finance, preprocesses it, and trains a deep learning model to forecast future prices.
