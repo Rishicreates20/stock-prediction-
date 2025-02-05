@@ -1,0 +1,6 @@
+NVIDIA-Stock-Prediction/
+├── app.py              # Streamlit app (if you have one)
+├── stock_prediction.py # Main prediction script
+├── requirements.txt    # List of dependencies
+├── README.md           # Project documentation
+└── .gitignore          # Files/folders to ignore
